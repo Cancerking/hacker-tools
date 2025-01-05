@@ -1,4 +1,5 @@
 # -*- coding:utf8 -*-
+# 盲注
 
 # 爆数据库
 import requests
